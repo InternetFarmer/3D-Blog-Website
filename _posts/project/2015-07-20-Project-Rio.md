@@ -45,7 +45,7 @@ introduction: Project Rio is a data visualization project based on law data in B
 		<h2>Mobile Friendly</h2>
 		<p>This project is based on responsive design which means it will work well among all kinds of device including Phones, tablets and laptops.</p>
 	</div>
-	<div class="col-7-12 col-offset-1-12 component-3-right" style="background-image:url({{ '/images/project/project_rio/mobile2.png' | prepend: site.baseurl }})">
+	<div class="col-7-12 col-offset-1-12 component-3-right" style="height: 400px; background-image:url({{ '/images/project/project_rio/mobile2.png' | prepend: site.baseurl }})">
 	</div>
 </div>
 
