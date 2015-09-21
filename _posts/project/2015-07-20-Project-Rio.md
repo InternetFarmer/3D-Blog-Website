@@ -5,9 +5,8 @@ description: Data Visualization Project during Internship
 category: Project
 imageURL: project_rio/ipad.png
 githubURL: #
-introduction: Project Rio is a data visualization project based on law data in Brazil. These legal data includes cases happens each state all around Brazil, cases handled by different lawyers, justices, courts etc. 
+introduction: Project Rio is a data visualization project based on law data in Brazil. These legal data includes cases happens each state all around Brazil, cases handled by different lawyers, justices, courts etc.
 ---
-
 <div class="component-1" style="background-image:url({{ '/images/project/project_rio/header.jpg' | prepend: site.baseurl }});">
 	<div class="col-1-3 col-offset-1-6 component-1-content">
 		<h1>Project Rio</h1>
@@ -15,8 +14,6 @@ introduction: Project Rio is a data visualization project based on law data in B
 	</div>
 	<div class="clean"></div>
 </div>
-
-
 <div class="row component-2">
 	<div class="col-5-12 col-offset-1-12 component-2-left">
 		<h2>Introduction</h2>
@@ -37,8 +34,6 @@ introduction: Project Rio is a data visualization project based on law data in B
 	<img src="{{ '/images/component-line.svg' | prepend: site.baseurl }}" alt="">
 </div>
 <div class="clean"></div>
-
-
 <div class="row component-3">
 	<h1>Features</h1>
 	<div class="col-1-4 col-offset-1-12 component-3-left">
@@ -48,8 +43,6 @@ introduction: Project Rio is a data visualization project based on law data in B
 	<div class="col-7-12 col-offset-1-12 component-3-right" style="height: 430px; background-image:url({{ '/images/project/project_rio/mobile2.png' | prepend: site.baseurl }})">
 	</div>
 </div>
-
-
 <div class="row component-4">
 	<h2 class='center'>Interactive maps for data displaying</h2>
 	<div class="col-10-12 col-offset-1-12">
@@ -78,14 +71,13 @@ introduction: Project Rio is a data visualization project based on law data in B
 </div>
 
 <div class="row component-3">
-	<div class="col-1-4 col-offset-1-12 component-3-left">
-		<h2>Muti-dimensional and dynamic data searching</h2>
-		<p>This project is based on responsive design which means it will work well among all kinds of device including Phones, tablets and laptops.</p>
-	</div>
-	<div class="col-7-12 col-offset-1-12 component-3-right" style="height: 430px; background-image:url({{ '/images/project/project_rio/mobile2.png' | prepend: site.baseurl }})">
+	<div class="col-7-12 col-offset-1-12 component-3-right" style="height: 430px; background-image:url({{ '/images/project/project_rio/dimensions2.png' | prepend: site.baseurl }})">
+		<div class="col-1-4 col-offset-1-12 component-3-left">
+			<h2>Muti-dimensional and dynamic data searching</h2>
+			<p>The data in our system has various of dimensions such as time, locations, defendants, plaintiff, lawyers, justices and so on. We make all the dimensions dynamic which means users can search on all dimensions and select any specific dimensions. In this way, users can view data from 360 degrees. </p>
+		</div>
 	</div>
 </div>
-
 <div class="row col-1-2 col-offset-1-4 divide">
 	<img src="{{ '/images/component-line.svg' | prepend: site.baseurl }}" alt="">
 </div>
