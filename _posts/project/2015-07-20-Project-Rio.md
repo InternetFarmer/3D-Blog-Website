@@ -8,7 +8,7 @@ githubURL: #
 introduction: Project Rio is a data visualization project based on law data in Brazil. These legal data includes cases happens each state all around Brazil, cases handled by different lawyers, justices, courts etc. 
 ---
 
-<div class="component-1" style="background-image:url({{ '/images/post.jpg' | prepend: site.baseurl }});">
+<div class="component-1" style="background-image:url({{ '/images/project/project_rio/header.jpg' | prepend: site.baseurl }});">
 	<div class="col-1-3 col-offset-1-6 component-1-content">
 		<h1>Project Rio</h1>
 		<h3>Data Visualization Project during Internship</h3>
