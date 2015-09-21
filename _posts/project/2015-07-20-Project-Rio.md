@@ -8,13 +8,15 @@ githubURL: #
 introduction: Project Rio is a data visualization project based on law data in Brazil. These legal data includes cases happens each state all around Brazil, cases handled by different lawyers, justices, courts etc. 
 ---
 
-<div class="row component-1" style="background-image:url({{ '/images/post.jpg' | prepend: site.baseurl }});">
+<div class="component-1" style="background-image:url({{ '/images/post.jpg' | prepend: site.baseurl }});">
 	<div class="col-1-3 col-offset-1-6 component-1-content">
-		<h1>Project Title</h1>
-		<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </h3>
+		<h1>Project Rio</h1>
+		<h3>Data Visualization Project during Internship</h3>
 	</div>
 	<div class="clean"></div>
 </div>
+
+
 <div class="row component-2">
 	<div class="col-5-12 col-offset-1-12 component-2-left">
 		<h2>Introduction</h2>
@@ -23,12 +25,11 @@ introduction: Project Rio is a data visualization project based on law data in B
 	<div class="col-1-3 col-offset-1-6 component-2-right">
 		<h2>Project details</h2>
 		<ul>
-			<li>Role : </li>
-			<li>Project type : </li>
-			<li>Team : </li>
-			<li>Platform : </li>
-			<li>Tools : </li>
-			<li>Timeline : </li>
+			<li>Role : Web Developer Intern</li>
+			<li>Project type : Data Visualization Project</li>
+			<li>Framework : C# MVC</li>
+			<li>Front-end Framework : Knockout.js MVVM</li>
+			<li>Timeline : June 2015 - July 2015 (Three Weeks)</li>
 		</ul>
 	</div>
 </div>
@@ -36,6 +37,8 @@ introduction: Project Rio is a data visualization project based on law data in B
 	<img src="{{ '/images/component-line.svg' | prepend: site.baseurl }}" alt="">
 </div>
 <div class="clean"></div>
+
+
 <div class="row component-4">
 	<h1>componenet title</h1>
 	<div class="col-10-12 col-offset-1-12">
@@ -72,6 +75,7 @@ introduction: Project Rio is a data visualization project based on law data in B
 	<img src="{{ '/images/component-line.svg' | prepend: site.baseurl }}" alt="image1">
 </div>
 <div class="clean"></div>
+
 <div class="row component-3">
 	<h1>componenet title</h1>
 	<div class="col-1-4 col-offset-1-12 component-3-left">
