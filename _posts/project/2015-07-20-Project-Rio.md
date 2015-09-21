@@ -49,33 +49,25 @@ introduction: Project Rio is a data visualization project based on law data in B
 	</div>
 </div>
 
-<div class="row component-3">
-	<div class="col-7-12 component-3-right" style="height: 430px; background-image:url({{ '/images/project/project_rio/map2.png' | prepend: site.baseurl }})">
-	</div>
-	<div class="col-1-4 col-offset-1-12 component-3-left">
-		<h2>Interactive maps for data displaying</h2>
-		<p>In order to display the data in a more friendly and directly way, we attach all the data onto the map of Brazil. The number on each state indicates the number of cases occur in that state. If user click on the state, a detailed state map will show the number of cases in each city of that state. All the click on the states and cities will update the top statistics above.</p>
-	</div>
-</div>
 
 <div class="row component-4">
-	<h1>Muti-dimensional and dynamic data searching</h1>
+	<h2>Interactive maps for data displaying</h2>
 	<div class="col-10-12 col-offset-1-12">
-		<p>The data in our system has various of dimensions such as time, locations, defendants, plaintiff, lawyers, justices and so on. We make all the dimensions dynamic which means users can search on all dimensions and select any specific dimensions. In this way, users can view data from 360 degrees. </p>
+		<p>In order to display the data in a more friendly and directly way, we attach all the data onto the map of Brazil. The number on each state indicates the number of cases occur in that state. If user click on the state, a detailed state map will show the number of cases in each city of that state. All the click on the states and cities will update the top statistics above. </p>
 	</div>
 </div>
 <div class="col-1-2 col-offset-1-4 slider">
 	<ul id="sb-slider" class="sb-slider">
 		<li>
-			<img src="{{ '/images/project/project_rio/time_dimension.png' | prepend: site.baseurl }}" alt="image1">
+			<img src="{{ '/images/project/project_rio/map.png' | prepend: site.baseurl }}" alt="image1">
 			<div class="sb-description">
-				<h3>Screenshot for the time period dimension</h3>
+				<h4>Screenshot for the map for both the country and each state</h4>
 			</div>
 		</li>
 		<li>
-			<img src="{{ '/images/project/project_rio/dimensions2.png' | prepend: site.baseurl }}" alt="image1">
+			<img src="{{ '/images/project/project_rio/map2.png' | prepend: site.baseurl }}" alt="image1">
 			<div class="sb-description">
-				<h3>Screenshot of all the dimensions which users can search and set</h3>
+				<h4>Screenshot of the map and filter when you select a state on the country map to see the detail of that state</h4>
 			</div>
 		</li>
 	</ul>
