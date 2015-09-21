@@ -51,7 +51,7 @@ introduction: Project Rio is a data visualization project based on law data in B
 
 
 <div class="row component-4">
-	<h2>Interactive maps for data displaying</h2>
+	<h2 class='center'>Interactive maps for data displaying</h2>
 	<div class="col-10-12 col-offset-1-12">
 		<p>In order to display the data in a more friendly and directly way, we attach all the data onto the map of Brazil. The number on each state indicates the number of cases occur in that state. If user click on the state, a detailed state map will show the number of cases in each city of that state. All the click on the states and cities will update the top statistics above. </p>
 	</div>
