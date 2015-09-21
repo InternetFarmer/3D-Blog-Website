@@ -20,7 +20,7 @@ introduction: Project Rio is a data visualization project based on law data in B
 <div class="row component-2">
 	<div class="col-5-12 col-offset-1-12 component-2-left">
 		<h2>Introduction</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+		<p>Project Rio is a data visualization project based on law data in Brazil. These legal data which is provied by a brazil company includes cases happens each state all around Brazil, cases handled by different lawyers, justices, courts etc. My job is to create a web application to display all the data in a elegant and user-friendly way. </p>
 	</div>
 	<div class="col-1-3 col-offset-1-6 component-2-right">
 		<h2>Project details</h2>
@@ -39,58 +39,22 @@ introduction: Project Rio is a data visualization project based on law data in B
 <div class="clean"></div>
 
 
-<div class="row component-4">
-	<h1>componenet title</h1>
-	<div class="col-10-12 col-offset-1-12">
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+<div class="row component-3">
+	<h1>Features</h1>
+	<div class="col-1-4 col-offset-1-12 component-3-left">
+		<h2>Mobile Friendly</h2>
+		<p>This project is based on responsive design which means it will work well among all kinds of device including Phones, tablets and laptops.</p>
+	</div>
+	<div class="col-7-12 col-offset-1-12 component-3-right" style="background-image:url({{ '/images/project/project_rio/mobile2.png' | prepend: site.baseurl }})">
 	</div>
 </div>
-<div class="col-1-2 col-offset-1-4 slider">
-	<ul id="sb-slider" class="sb-slider">
-		<li>
-			<img src="{{ '/images/project/project.jpeg' | prepend: site.baseurl }}" alt="image1">
-			<div class="sb-description">
-				<h3>Example 1</h3>
-			</div>
-		</li>
-		<li>
-			<img src="{{ '/images/project/project.jpeg' | prepend: site.baseurl }}" alt="image1">
-			<div class="sb-description">
-				<h3>Example 2</h3>
-			</div>
-		</li>
-		<li>
-			<img src="{{ '/images/project/project.jpeg' | prepend: site.baseurl }}" alt="image1">
-			<div class="sb-description">
-				<h3>Example 3</h3>
-			</div>
-		</li>
-	</ul>
-	<div id="nav-arrows" class="nav-arrows">
-		<a href="#">Next</a>
-		<a href="#">Previous</a>
-	</div>
-</div>
-<div class="row col-1-2 col-offset-1-4 divide">
-	<img src="{{ '/images/component-line.svg' | prepend: site.baseurl }}" alt="image1">
-</div>
-<div class="clean"></div>
 
 <div class="row component-3">
-	<h1>componenet title</h1>
-	<div class="col-1-4 col-offset-1-12 component-3-left">
-		<h2>Title</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-	</div>
-	<div class="col-7-12 col-offset-1-12 component-3-right" style="background-image:url({{ '/images/project/project.jpeg' | prepend: site.baseurl }})">
-	</div>
-</div>
-<div class="row component-3">
-	<div class="col-7-12 component-3-right" style="background-image:url({{ '/images/project/project.jpeg' | prepend: site.baseurl }})">
+	<div class="col-7-12 component-3-right" style="background-image:url({{ '/images/project/project_rio/map2.png' | prepend: site.baseurl }})">
 	</div>
 	<div class="col-1-4 col-offset-1-12 component-3-left">
-		<h2>Title</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+		<h2>Interactive maps for data displaying</h2>
+		<p>In order to display the data in a more friendly and directly way, we attach all the data onto the map of Brazil. The number on each state indicates the number of cases occur in that state. If user click on the state, a detailed state map will show the number of cases in each city of that state. All the click on the states and cities will update the top statistics above.</p>
 	</div>
 </div>
 <div class="row col-1-2 col-offset-1-4 divide">
