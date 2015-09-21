@@ -1,6 +1,5 @@
 ---
 layout: default
-title: blog
 ---
 <div class="post">
 	<div class="row">
@@ -17,7 +16,7 @@ title: blog
 	</div>
 	<div class="row">
 		<div class="attributes">
-			<p>{{ page.date }} ● {{ page.tag }}</p>
+			<p>{{ page.date | date: "%b %-d, %Y" }} ● {{ page.tag }}</p>
 		</div>
 	</div>
 	
