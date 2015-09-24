@@ -1,12 +1,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="-265 395.7 80.5 15.3" style="enable-background:new -265 395.7 80.5 15.3;" xml:space="preserve">
+	 viewBox="0 0 95 10" style="enable-background:new 0 0 95 10;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#133251;stroke-linecap:round;stroke-miterlimit:10;}
-	.st1{fill:#FFFFFF;stroke:#41210D;stroke-width:0.1;stroke-miterlimit:10;}
-	
+	.st0{fill:none;stroke:#173350;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
 	<defs>
 		<style>
-			.st0 {
+			.svgLoaded {
 			-webkit-animation: stroke 5s ease-in-out forwards;
 			-o-animation: stroke 5s ease-in-out forwards;
 			-moz-animation: stroke 5s ease-in-out forwards;
@@ -25,17 +24,15 @@
 			}
 		</style>
 	</defs>
-	
 </style>
-<g id="XMLID_1_">
-	<path class="st0" d="M-264.4,396.3c26.5,0,45,0,71.4,0c4.5-0.4,8.2,3.3,8.1,7.3c-0.1,3.9-3.8,7.2-8.1,6.8c-13.2,0-26.5,0-39.7,0
-		h-17.2"/>
+<path class="st0" d="M0,1.5c30,0,60,0,90,0c2.4,0,4.4,1.5,4.3,3.5c0,2-2,3.5-4.3,3.5c-19.9,0-73.1,0-73.1,0"/>
+<rect x="7.5" y="1" transform="matrix(0.7071 0.7071 -0.7071 0.7071 3.404 -5.2174)" class="st1" width="1" height="1"/>
+<rect x="23.5" y="1" transform="matrix(0.7071 0.7071 -0.7071 0.7071 8.0904 -16.5311)" class="st1" width="1" height="1"/>
+<rect x="39.5" y="1" transform="matrix(0.7071 0.7071 -0.7071 0.7071 12.7753 -27.8416)" class="st1" width="1" height="1"/>
+<rect x="71.3" y="1" transform="matrix(0.7071 0.7071 -0.7071 0.7071 22.1016 -50.3573)" class="st1" width="1" height="1"/>
+<rect x="39.5" y="8" transform="matrix(0.7071 0.7071 -0.7071 0.7071 17.7248 -25.7914)" class="st1" width="1" height="1"/>
+<rect x="55.5" y="8" transform="matrix(0.7071 0.7071 -0.7071 0.7071 22.4111 -37.1051)" class="st1" width="1" height="1"/>
+<rect x="71.3" y="8" transform="matrix(0.7071 0.7071 -0.7071 0.7071 27.0511 -48.3071)" class="st1" width="1" height="1"/>
+<g>
 </g>
-<rect x="-257.4" y="395.9" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -718.9032 494.7519)" class="st1" width="0.8" height="0.8"/>
-<rect x="-241.4" y="395.9" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -691.5923 506.0682)" class="st1" width="0.8" height="0.8"/>
-<rect x="-225.4" y="395.9" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -664.2882 517.391)" class="st1" width="0.8" height="0.8"/>
-<rect x="-209.4" y="395.9" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -636.9691 528.6989)" class="st1" width="0.8" height="0.8"/>
-<rect x="-209.4" y="410" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -646.9513 552.798)" class="st1" width="0.8" height="0.8"/>
-<rect x="-225.4" y="410" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -674.2676 541.4833)" class="st1" width="0.8" height="0.8"/>
-<rect x="-241.4" y="410" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -701.5763 530.1716)" class="st1" width="0.8" height="0.8"/>
 </svg>
