@@ -1,6 +1,6 @@
 /* CSS Document */
 .about_title{
-	margin-top:65px;
+	margin-top:65px !important;
 	}
 .about_head{
 	padding-top:30px;
@@ -11,7 +11,8 @@
 .pic img{
 	display:block;
 	height:100%;
-	width:100%;
+	margin-left: 50px;
+	border-radius: 60px;
 	}
 .sub-title p{
 	line-height:30px;

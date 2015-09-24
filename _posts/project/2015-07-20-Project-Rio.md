@@ -69,15 +69,18 @@ introduction: Project Rio is a data visualization project based on law data in B
 		<a href="#">Previous</a>
 	</div>
 </div>
+<div class="clean"></div>
 
 <div class="row component-3">
-	<div class="col-7-12 col-offset-1-12 component-3-right" style="height: 430px; background-image:url({{ '/images/project/project_rio/dimensions2.png' | prepend: site.baseurl }})">
-		<div class="col-1-4 col-offset-1-12 component-3-left">
-			<h2>Muti-dimensional and dynamic data searching</h2>
-			<p>The data in our system has various of dimensions such as time, locations, defendants, plaintiff, lawyers, justices and so on. We make all the dimensions dynamic which means users can search on all dimensions and select any specific dimensions. In this way, users can view data from 360 degrees. </p>
-		</div>
+	<div class="col-7-12 component-3-right">
+		<img src="{{ '/images/project/project_rio/top_statistic.png' | prepend: site.baseurl }}" alt="top statistic" style="width: 100%; height:400px">
+	</div>
+	<div class="col-1-4 col-offset-1-12 component-3-left">
+		<h2>Dynamic UI for top statistics</h2>
+		<p>Fundamentally, system shows four top statistics of four dimensions when users first log in. But they can also customize the dashborad by drag different dimensions into the top statistics area to make it more personalized. </p>
 	</div>
 </div>
+
 <div class="row col-1-2 col-offset-1-4 divide">
 	<img src="{{ '/images/component-line.svg' | prepend: site.baseurl }}" alt="">
 </div>
